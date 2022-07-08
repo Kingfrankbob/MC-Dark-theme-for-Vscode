@@ -1,0 +1,13 @@
+{"name":"theme-kimbie-dark",
+"displayName":"%displayName%",
+"description":"%description%",
+"version":"1.0.0",
+"publisher":"Michael Cragun",
+"license":"MIT",
+"engines":{"vscode":"*"},
+"contributes":{"themes":[{"id":"MC Dark",
+"label":"%themeLabel%",
+"uiTheme":"vs-dark",
+"path":"./themes/MC-dark-color-theme.json"}]},
+"repository":{"type":"git",
+"url":"https://github.com/microsoft/vscode.git"}}
